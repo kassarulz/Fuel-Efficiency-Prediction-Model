@@ -1,2 +1,2 @@
 # Fuel-Efficiency-Prediction-Model
-This is a model developed to predict the fuel efficiency from a data set obtained regarding the fuel consumption using machine learning techniques such as linear regression and ridge regression analysis
+This is a model developed to predict the fuel efficiency from a data set obtained regarding the fuel consumption using machine learning techniques such as linear regression and ridge regression analysis. Here I have first analysed the variations and correlations in the attributes with each other and shown there patterns graphically. Then the model was trained and the error has been checked after applying the linear regressins and ridge regression separately.
